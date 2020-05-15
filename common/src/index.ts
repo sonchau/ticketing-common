@@ -10,6 +10,6 @@ const color: Color = {
   green: 10
 };
 
-console.log(color);
+console.log("color", color);
 
 export default color;
