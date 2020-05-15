@@ -10,3 +10,9 @@ username: sonchau24
 p: ST33
 
 -------------------------------------------
+
+to deploy to npm
+
+npm version patch
+npm run build
+npm publisgh
