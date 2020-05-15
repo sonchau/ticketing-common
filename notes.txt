@@ -1,0 +1,12 @@
+publish to npm
+npm publish --access public
+
+-------------------------------------------
+
+log in
+
+npm login
+username: sonchau24
+p: ST33
+
+-------------------------------------------
